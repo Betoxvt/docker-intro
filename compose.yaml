@@ -1,0 +1,5 @@
+services:
+  app:
+    image: betoxvt/live-aquecimento:v1
+    ports:
+      - 8080:80
